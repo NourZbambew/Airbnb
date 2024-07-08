@@ -1,0 +1,161 @@
+.logo-airbnb{
+    width: 102px;
+    position: relative;
+    left: 73px;
+top: 18px;
+
+
+}
+
+@font-face {
+    font-family: airbnb;
+    src: url(/fontfamily/airbnb-cereal-font/AirbnbCereal_W_Bk.otf);
+}
+html{
+    font-family: airbnb;
+}
+.logements{ position: relative;
+    left: 643px;
+    bottom: 30px;
+
+}
+.Expériences{
+    position: relative;
+    left: 760px;
+    bottom: 66px;
+    
+}
+.poster{
+    position: relative;
+    left: 1100px;
+    bottom: 100px;
+    text-decoration:none;
+    color: black;
+}
+
+
+.img2{
+    width: 150px;
+    position: relative;
+    left: 1350px;
+    bottom: 160px;
+}
+.bar-icon{
+    position: relative;
+    bottom: 170px;
+    left: 400px;
+    --padding:14px;
+    width: max-content;
+    display: flex;
+align-items: center;
+padding: 14px;
+border-radius: 28px;
+background: #f6F6F6;
+width: 700px;}
+.bar-input{
+    font-size: 16px;
+    font-family: airbnb;
+    color: #333333;
+    margin-left: 14px;
+    outline: none;
+    border: none;
+    background: transparent;
+}
+.hr1{
+    position: relative;
+    bottom: 160px;
+    color: lightgray;
+    height: 1px;
+}
+.img3{
+    width: 1500px;
+    position: relative;
+    bottom: 493px;
+}
+.img4{
+    position: relative;
+    width: 330px;
+    left: 55px;
+    bottom: 50px;
+}
+.img5{position: relative;
+    width: 330px;
+    left: 70px;
+    bottom: 50px;
+}
+.img6{position: relative;
+    width: 330px;
+    left: 85px;
+    bottom: 50px;
+}
+.img7{position: relative;
+    width: 330px;
+    left: 100px;
+    bottom: 50px;
+}
+.op{
+    position: relative;
+    bottom: 150px;
+    left: 50 px;
+    width: 30px;
+}
+.p1{
+    position: relative;
+    left: 409px;
+    bottom: 170px;
+}
+.p2{
+    position: relative;
+    left: 409px;
+    bottom: 170px;
+    }
+    .p3{
+        position: relative;
+        left: 50px;
+        bottom: 240px;
+    }
+    .p4{
+        position: relative;
+        left :50px;
+        bottom: 240px;
+    }
+    .p5 {
+        position: relative;
+        left: 1105px;
+        bottom: 320px;
+    }
+    .p6{position: relative;
+        left: 1105px;
+        bottom: 320px;
+    }
+    .p7{position: relative;
+        left:760px;
+        bottom: 390px;
+    }
+    .p8{
+        position: relative;
+        left: 760px;
+        bottom: 390px;
+    }
+    .bloc1{
+        background-color:rgb(246, 244, 244);
+        margin: 0;
+        padding: 0;
+        position: relative;
+        bottom: 300px;
+        
+    }
+    .div1{position: relative;
+        left: 70px;
+
+    }    
+.div2{position: relative;
+left: 600px;
+bottom:220px;
+line-height: 20px;
+}
+.div3{
+    position: relative;
+    left: 1200px;
+    bottom: 950px;
+}
